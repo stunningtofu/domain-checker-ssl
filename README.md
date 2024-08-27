@@ -1,3 +1,5 @@
+Create a file like https://www.ssllabs.com/ssltest/ with a shell script
+
 To run a file with cron, you need to follow these steps:
 
 1. Open your terminal and type `crontab -e` to edit your cron jobs.
